@@ -1,7 +1,7 @@
 SHARPCHAT
 =========
 
-HTML5 Websocket Chat powered by Fleck C# WebSocket Server
+HTML5 Websocket Chat with usernames powered by Fleck C# WebSocket Server
 
 REQUIREMENTS
 =============
